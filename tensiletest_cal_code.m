@@ -1,4 +1,4 @@
-classdef tensiletest_cal < matlab.apps.AppBase
+classdef tensiletest_cal_code < matlab.apps.AppBase
 
     % Properties that correspond to app components
     properties (Access = public)
